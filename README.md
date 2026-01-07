@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=F2D6C1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Eduardo+Antonio+Rozete+Flores;I+study+computer+science;I'm+18+years+old;Be+Welcome!+to+my+profile" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=F2D6C1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Eduardo+Antonio+Rozete+Flores;I+study+computer+science;I'm+19+years+old;Be+Welcome!+to+my+profile" alt="Typing SVG" />
   </a>
 </p>
 
