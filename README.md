@@ -19,11 +19,6 @@
 
 ### 💻 Stats & Activity
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eduardo-antonio-rozete-flores&show_icons=true&count_private=true&hide_border=true&title_color=B08D57&icon_color=63422A&text_color=9A8B71&bg_color=0D1117&custom_title=Overview" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-antonio-rozete-flores&layout=compact&hide_border=true&title_color=B08D57&text_color=9A8B71&bg_color=0D1117" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardo-antonio-rozete-flores&bg_color=0D1117&color=B08D57&line=63422A&point=9A8B71&area=true&hide_border=true" />
 </div>
