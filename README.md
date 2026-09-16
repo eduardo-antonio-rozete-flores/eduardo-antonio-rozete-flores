@@ -17,13 +17,6 @@
 
 ---
 
-### 💻 Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardo-antonio-rozete-flores&bg_color=0D1117&color=B08D57&line=63422A&point=9A8B71&area=true&hide_border=true" />
-</div>
-
----
 
 ### ⚙️ Stack & Tools
 <p align="center">
